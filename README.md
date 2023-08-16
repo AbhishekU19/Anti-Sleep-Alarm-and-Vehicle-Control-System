@@ -17,9 +17,9 @@ The Anti-Sleep Alarm component focuses on monitoring the driver's state and aler
 
 The Vehicle Control System component ensures the vehicle's safety and positioning. It involves several technologies:
 
-- An accelerometer detects vehicle movement and vibrations. If the vehicle turns beyond 30 degrees, the GPS system sends the precise location of the car.
+- An accelerometer detects vehicle movement and vibrations. If the vehicle turns beyond 30 degrees, the GPS sends the precise location of the car.
 - GPS (Global Positioning System) provides accurate location and time information. It is used in conjunction with the GSM module to send the exact car location in case of an accident or emergency.
-- GSM (Global System for Mobile Communication) is employed for sending messages. When combined with the GPS system, it facilitates the transmission of the car's location through an accelerometer-triggered event.
+- GSM (Global System for Mobile Communication) is employed for sending messages. When combined with the GPS, it facilitates the transmission of the car's location through an accelerometer-triggered event.
 
 Additionally, the project includes:
 
